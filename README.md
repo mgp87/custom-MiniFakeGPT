@@ -1,1 +1,1 @@
-# custom-miniGPT
+# Mini Fake GPT with Pytorch 😁
